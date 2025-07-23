@@ -1,16 +1,24 @@
 ## Hi there 👋
+👋 ¡Hola! Soy Santiago Almada
+🎓 Estudiante avanzado de Licenciatura en Sistemas en la UNLP - Facultad de Informática, actualmente en 3.er año y próximo a obtener el título de Analista Programador Universitario (APU).
+💻 Apasionado por el desarrollo backend y el diseño de soluciones escalables y bien estructuradas. Me encuentro formándome como Desarrollador Backend Junior, con proyectos personales que aplican arquitecturas limpias, integración fullstack y despliegue en la nube.
 
-<!--
-**almadasantiago/almadasantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Actualmente trabajando con tecnologías como:
+--> 
+🟦 C# / .NET
+    ASP.NET Core 💻
+    Blazor 🌐
+    Automatización y chatbots con .NET 🤖
+    
+🟨 JavaScript / TypeScript
+    React JS ⚛️
 
-Here are some ideas to get you started:
+☕ Java
+    Spring Boot 🌿
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐘 PHP
+  
+### Github Stats 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=almadasantiago&theme=dark)](https://git.io/streak-stats) 
+
+![almadasantiago's Stats](https://github-readme-stats.vercel.app/api?username=almadasantiago&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
