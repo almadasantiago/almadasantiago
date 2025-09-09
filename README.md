@@ -17,9 +17,7 @@ Me encuentro formándome como Desarrollador Backend Junior, con proyectos person
 ☕ Java
     Spring Boot 🌿
 
-🐘 PHP
   
 ### Github Stats 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=almadasantiago&theme=dark)](https://git.io/streak-stats) 
 
 ![almadasantiago's Stats](https://github-readme-stats.vercel.app/api?username=almadasantiago&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
