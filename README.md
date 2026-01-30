@@ -5,16 +5,17 @@ Soy Santiago Almada
 Me encuentro formándome como Desarrollador Backend Junior, con proyectos personales que aplican arquitecturas limpias, integración fullstack y despliegue en la nube.
 
  Actualmente trabajando con tecnologías como:
+    
     🟦 C# / .NET
         ASP.NET Core y ecosistema .NET 💻
         Blazor 🌐
     ☕ Java
     Spring Boot 🌿
     
-🟨 JavaScript / TypeScript
+    🟨 JavaScript / TypeScript
     React JS y Angular ⚛️
-
-  Docker, Git, además de sistemas LowCode para automatizaciones.   
+    
+    Docker, Git, además de sistemas LowCode para automatizaciones.   
   
 ### Github Stats 
 
