@@ -1,22 +1,20 @@
-## Hi there 👋
-👋 ¡Hola! Soy Santiago Almada 
+
+Soy Santiago Almada 
 🎓 Estudiante avanzado de Licenciatura en Sistemas en la UNLP - Facultad de Informática, actualmente en 3.er año y próximo a obtener el título de Analista Programador Universitario (APU).
-💻 Apasionado por el desarrollo backend y el diseño de soluciones escalables y bien estructuradas. 
+💻 Me especializo en el desarrollo backend buscando constantemente el diseño de soluciones escalables y bien estructuradas. 
 Me encuentro formándome como Desarrollador Backend Junior, con proyectos personales que aplican arquitecturas limpias, integración fullstack y despliegue en la nube.
 
-🚀 Actualmente trabajando con tecnologías como:
---> 
+ Actualmente trabajando con tecnologías como:
     🟦 C# / .NET
         ASP.NET Core y ecosistema .NET 💻
         Blazor 🌐
-        Automatización y chatbots con .NET 🤖
+    ☕ Java
+    Spring Boot 🌿
     
 🟨 JavaScript / TypeScript
-    React JS ⚛️
+    React JS y Angular ⚛️
 
-☕ Java
-    Spring Boot 🌿
-
+  Docker, Git, además de sistemas LowCode para automatizaciones.   
   
 ### Github Stats 
 
